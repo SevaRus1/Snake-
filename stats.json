@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2026-02-14T19:40:40.987682",
+    "player": "Игрок",
+    "score": 11,
+    "length": 4,
+    "foods_eaten": 1,
+    "special_foods": 0,
+    "bonus_foods": 0,
+    "time_alive": 6.0,
+    "achievements": [
+      "Новичок"
+    ]
+  },
+  {
+    "date": "2026-02-14T19:42:45.541391",
+    "player": "Игрок",
+    "score": 0,
+    "length": 3,
+    "foods_eaten": 0,
+    "special_foods": 0,
+    "bonus_foods": 0,
+    "time_alive": 4.5,
+    "achievements": []
+  }
+]
